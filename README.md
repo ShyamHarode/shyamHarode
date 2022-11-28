@@ -46,7 +46,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShyamHarode&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamHarode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamHarode&show_icons=true&locale=en" alt="ShyamHarode" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShyamHarode" alt="ShyamHarode" /></a> </p>
 
